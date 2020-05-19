@@ -1,0 +1,59 @@
+a:hover
+{
+    font-size: 20px;
+    transition: 0.5s;
+}
+button:hover
+{
+    font-size: 20px;
+    transition: 0.5s;
+}
+input[type="text"]:focus
+{
+    background-color: black;
+    color: white;
+}
+.h:hover
+{
+    background-color: green;
+}
+.fa1
+{
+    padding: 15px 5px;
+    /* font-size: 50px; */
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+.fa1:hover
+{
+    padding:10px 5px;
+    opacity:0.9;
+}
+.fa-facebook
+{
+    background-color: #3B5998;
+    color: white;
+}
+.fa-twitter
+{
+    background-color: #55ACEE;
+    color: white;
+}
+.fa-google
+{
+    background-color: #dd4b39;
+    color: white;
+}
+.fa-instagram
+{
+    background-color: #f09433;
+    color: white;
+}
+.fa-youtube
+{
+    background-color: #bb0000;
+    color: white;
+}
